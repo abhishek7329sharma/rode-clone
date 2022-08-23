@@ -47,7 +47,7 @@
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-![](https://img.shields.io/badge/TIme-14--15%20Hours-green)
+![](https://img.shields.io/badge/TIme-8%20Hours-green)
 ![](https://img.shields.io/badge/Build%20By-Tailwind%20%26%20HTML-blue)
 
 ## Live Link
